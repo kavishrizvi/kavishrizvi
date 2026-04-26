@@ -48,11 +48,11 @@ I'm Kavish, a Software Engineer focused on backend systems, scalable microservic
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kavishrizvi&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavishrizvi" />
 </p>
 
 ---
@@ -60,16 +60,12 @@ I'm Kavish, a Software Engineer focused on backend systems, scalable microservic
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/kavishrizvi"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:kavish.r#icloud.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://github.com/kavishrizvi"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://www.linkedin.com/in/kavishrizvi/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:kavish.r#icloud.com"><img src="https://skillicons.dev/icons?i=icloud" /></a>
 </p>
 
 ---
-
-## ⚡ Quote
-
-> Build systems that survive traffic, failure, and bad code.
-
 
 <!---
 uchiharizvi/uchiharizvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
