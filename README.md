@@ -62,7 +62,7 @@ I'm Kavish, a Software Engineer focused on backend systems, scalable microservic
 <p align="left">
 <a href="https://github.com/kavishrizvi"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://www.linkedin.com/in/kavishrizvi/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:kavish.r#icloud.com"><img src="https://skillicons.dev/icons?i=icloud" /></a>
+<a href="mailto:kavish.r@icloud.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
