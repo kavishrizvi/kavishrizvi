@@ -29,7 +29,7 @@ I'm Kavish, a Software Engineer focused on backend systems, scalable microservic
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,mysql,postgres,mongodb,redis,kafka,docker,kubernetes,aws,git,github,linux,idea,vscode,postman,temporal" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,mysql,postgres,mongodb,redis,kafka,docker,kubernetes,aws,git,github,linux,idea,vscode,postman" />
 
 </p>
 
